@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAIkariWarriors/AVAIkariWarriors.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAIkariWarriors.Tests/AVAIkariWarriors.Tests.csproj" />
+  </Folder>
+</Solution>
